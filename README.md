@@ -6,6 +6,10 @@
 
 - _fork.c: creates a child process for the main process
 - _execve.c: executes a command
+- _free.c: frees allocted to free
+- _getenv.c: looks for the path 
+- _realloc.c: reallocates memory block using malloc and free
+
 
 
 ### Authors
